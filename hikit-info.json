@@ -1,0 +1,16 @@
+{
+    "name": "hidev",
+    "owner": "Cosmade",
+    "desc": "Used to assist dev.",
+    "version": "1.0.0",
+    "type": "app",
+    "remote": "git@github.com:DeepSkyStar/hidev.git",
+    "is_default" : false,
+    "commands":[
+        "hidev"
+    ],
+    "resources":[
+    ],
+    "dependencies":[
+    ]
+}
