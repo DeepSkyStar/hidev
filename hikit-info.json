@@ -1,10 +1,11 @@
 {
     "name": "hidev",
     "owner": "Cosmade",
+    "contact": "deepskystar@outlook.com",
     "desc": "Used to assist dev.",
     "version": "1.0.0",
     "type": "app",
-    "remote": "https://github.com:DeepSkyStar/hidev.git",
+    "remote": "https://github.com/DeepSkyStar/hidev.git",
     "is_default" : false,
     "commands":[
         "hidev"
