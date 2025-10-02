@@ -5,7 +5,7 @@
     "desc": "Used to assist dev.",
     "version": "1.0.0",
     "type": "app",
-    "remote": "https://github.com/DeepSkyStar/hidev.git",
+    "remote": "ssh://git@code.lingsocorp.com:222/common/hidev.git",
     "is_default" : false,
     "commands":[
         "hidev"
